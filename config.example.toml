@@ -1,0 +1,5 @@
+[telegram]
+bot_token = '1234567890:ABCDEFG...'
+
+[database]
+dsn = 'sqlite+aiosqlite:///database.db'

@@ -1,0 +1,7 @@
+config.toml
+database.db
+tests.py
+
+/.venv
+/__pycache__
+/.idea
